@@ -1,0 +1,9 @@
+{
+    "name": "moura/ws-php",
+    "autoload": {
+        "psr-4": {
+            "app\\": "app/"
+        }
+    },
+    "require": {}
+}
